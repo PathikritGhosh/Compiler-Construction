@@ -1,0 +1,2 @@
+In this assignment implement a class Beautify, and then a subclass called CBeautify which formats a C code in HTML.
+The main function will open a C program file, invoke an appropriate function of CBeautify object which will eventually generate an HTML file. The HTML-formatted text highlights C keywords and directives define and include, operators, constants, and comments.
